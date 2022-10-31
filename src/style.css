@@ -1,15 +1,16 @@
 .group {
-  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
-.group:first-child {
-  margin-top: 0;
+.input {
+  display: block;
+  margin-bottom: 10px;
 }
 
-.group .input {
-  margin-top: 10px;
+.input:last-of-type {
+  margin-bottom: 0;
 }
 
-.input:first-of-type {
-  margin-top: 0;
+.inputDiv {
+  margin-bottom: 10px;
 }
